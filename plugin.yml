@@ -2,4 +2,4 @@ name: BedWars
 version: "2.0pre-release"
 api: 4.2.3
 main: BedWars\BedWars
-author: boi
+author: committocompile
