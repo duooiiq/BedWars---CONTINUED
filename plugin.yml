@@ -1,5 +1,5 @@
 name: BedWars
 version: "2.0pre-release"
-api: 4.2.3
+api: 4.0.0
 main: BedWars\BedWars
 author: committocompile
